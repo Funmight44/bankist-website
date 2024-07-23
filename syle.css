@@ -153,6 +153,8 @@
 .intro-message, .intro-pic{
     flex-basis: 45%;
     margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 
