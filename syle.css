@@ -581,7 +581,6 @@ img{
     }
     .nav-bar{
         display: inline-flex;
-        justify-content: center;
         font-size: 15px;
         font-weight: 400;
         margin: auto;
@@ -707,7 +706,7 @@ img{
 }
 
 .Ms-pic .pic1 img{
-    height: 250px;
+    height: 210px;
 }
 
 .Ms-pic .pic2 img{
